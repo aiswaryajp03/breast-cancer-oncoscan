@@ -6,8 +6,6 @@ https://breast-cancer-oncoscangit.streamlit.app
 
 An AI-powered clinical decision support tool for breast cancer malignancy prediction.
 
-> ⚠️ **Disclaimer:** This is a research prototype built for educational purposes. It is **not** a substitute for professional medical diagnosis.
-
 ---
 
 ## 📌 Overview
