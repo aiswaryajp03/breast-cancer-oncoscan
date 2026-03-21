@@ -128,15 +128,17 @@ model.pkl | scaler.pkl | feature_columns.pkl
 ---
 
 ## 📂 Project Structure
-├── app.py
-├── trained_model.py
-├── model.pkl
-├── scaler.pkl
-├── feature_columns.pkl
-├── removed_columns.pkl
-├── Breast_Cancer.csv
-└── requirements.txt
 
+| File / Directory         | Description                          |
+|--------------------------|--------------------------------------|
+| `app.py`                 | Streamlit web application            |
+| `trained_model.py`       | Model training pipeline              |
+| `model.pkl`              | Trained SVM classifier               |
+| `scaler.pkl`             | Fitted StandardScaler                |
+| `feature_columns.pkl`    | Selected feature names               |
+| `removed_columns.pkl`    | Dropped correlated features          |
+| `Breast_Cancer.csv`      | Dataset                              |
+| `requirements.txt`       | Project dependencies                 |
 
 ## 📥 Input Features
 
